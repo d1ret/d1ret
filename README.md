@@ -1,5 +1,5 @@
 <p float="left">
-<img src='https://pbs.twimg.com/profile_banners/3466185013/1644415494/1080x360' width='1024' align="left">
+<img src='https://i.imgur.com/wUhrbCQ.png' width='1024' align="left">
 <p float="left">
   <br>
   <br>
