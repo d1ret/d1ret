@@ -9,12 +9,13 @@
     "credits_valorantapi": "Неофициальный Valorant API",
     "delete_account": "Удалить Аккаунт",
     "discord_server": "Discord Сервер",
-    "donate": "Поддержать VShop",
+    "donate": "Поддержать ValChecker",
     "donate_msg": "Поддержите разработку приложения и получите доступ к уведомлениям о скинах в списке желаний, жертвуя любую сумму. Огромное спасибо <3",
     "fag": "Бесплатные Агенты",
-    "fetching.balances": "Получение балансов...",
-    "fetching.entitlements_token": "Получение токена прав доступа...",
-    "fetching.offers": "Получение предложений...",
+    "kp":"Кингдом Поинты",
+    "fetching.balances": "Получение баланса...",
+    "fetching.entitlements_token": "Получение токенов...",
+    "fetching.offers": "Подсматриваю в ежедневный магазин...",
     "fetching.progress": "Получение прогресса...",
     "fetching.skins": "Получение скинов...",
     "fetching.storefront": "Получение витрины магазина...",
@@ -48,7 +49,7 @@
     "next": "Далее",
     "nightmarket": "Ночной рынок",
     "no": "Нет, спасибо",
-    "no_nightmarket": "Ночной рынок скоро вернётся.",
+    "no_nightmarket": "Когда-нибудь ночной рынок вернётся ❤️",
     "okay": "Хорошо",
     "privacy_policy": "Политика конфиденциальности",
     "profile": "Профиль",
@@ -70,7 +71,7 @@
     "translators": "Переводчики",
     "videos": "Видео",
     "vp": "Valorant Поинты",
-    "welcome": "Добро пожаловать в VShop",
+    "welcome": "Добро пожаловать в ValChecker",
     "welcome_back": "С возвращением",
     "welcome_back_info": "Подождите, пока мы подключаем вас.",
     "xp": "Очки Опыта",
@@ -95,7 +96,7 @@
         "error": "Произошла ошибка",
         "restore": "Восстановить Покупки"
     },
-    "disclaimer": "VShop никак не связан с Riot Games.\nRiot Games, Valorant и все связанные собственности являются товарными знаками или зарегистрированными товарными знаками Riot Games, Inc.",
+    "disclaimer": "ValChecker никак не связан с Riot Games.\nRiot Games, Valorant и все связанные собственности являются товарными знаками или зарегистрированными товарными знаками Riot Games, Inc.",
     "donate_unlocked": "Вы разблокировали донаторские привилегии.",
     "languages": {
         "es": "Испанский"
@@ -103,7 +104,7 @@
     "update": {
         "available": {
             "title": "Доступно обновление",
-            "description": "Новая версия VShop доступна для установки"
+            "description": "Новая версия ValChecker доступна для установки"
         },
         "download_github": "Скачать на GitHub"
     },
